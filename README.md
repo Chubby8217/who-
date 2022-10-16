@@ -1,4 +1,4 @@
-#name = input("enter your crush name :")
+#name = input("AKII MAA :")
 a = turtle.Turtle()
 b = turtle.Screen()
 b.bgcolor("purple")
@@ -79,7 +79,7 @@ a.right(90)
 a.forward(150)
 a.down()
 
-a.write( "I        LOVE     YOU ", font=("ALGERIAN",40),align="center")
+a.write( "I     LOVE     YOU ", font=("ALGERIAN",40),align="center")
 
 a.up()
 a.right(90)
